@@ -1,8 +1,7 @@
 ## HAPPY BIRTHDAY PAULINE!!!
->> ![GIf](./img/thankyou.gif)
+![GIf](breakfast-at-tiffanys.gif)
 
-
->> Ein kleines Lied zur Feier des Tages:
+Ein kleines Lied zur Feier des Tages:
 <audio src="allesgute.m4a" controls autoplay loop></audio>
 
 
