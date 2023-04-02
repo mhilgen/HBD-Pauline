@@ -3,7 +3,7 @@
 
 
 >> Ein kleines Lied zur Feier des Tages:
-<video src="https://www.youtube.com/watch?v=ElRKGZkXilE" data-canonical-src="https://www.youtube.com/watch?v=ElRKGZkXilE" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<video src="https://www.youtube.com/watch?v=ElRKGZkXilE" data-canonical-src="https://www.youtube.com/watch?v=ElRKGZkXilE" controls="controls" muted="unmuted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
   </video>
 
