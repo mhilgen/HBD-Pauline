@@ -6,7 +6,7 @@
 
 ![GIf](breakfast-at-tiffanys.gif) <br><br>
 ![GIf](carlton.gif) <br><br>
-### und natürlic noch ein paar Grüße von Hollywood 😉😘
+### und natürlich noch ein paar Grüße von Hollywood 😉😘
 ![GIf](henry.gif)
 ![GIf](cheers.gif)
 
