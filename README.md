@@ -1,4 +1,4 @@
-# HAPPY BIRTHDAY PAULINE!!!
+# HAPPY BIRTHDAY, PAULINE!!!
 ![GIf](hbd.gif)
 
 *Ein kleines Lied zur Feier des Tages:*
